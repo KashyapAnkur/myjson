@@ -23,32 +23,32 @@
     {
         "name":"Mukesh",
         "age":"30"
-    },
+    }
   ],
   "address": [
     {
         "state": "Himachal Pradesh",
-        "district":"Shimla",
+        "district":"Shimla"
     },
     {
         "state": "Himachal Pradesh",
-        "district":"Shimla",
+        "district":"Shimla"
     },
     {
         "state": "Himachal Pradesh",
-        "district":"Solan",
+        "district":"Solan"
     },
     {
         "state": "Himachal Pradesh",
-        "district":"Shimla",
+        "district":"Shimla"
     },
     {
         "state": "Himachal Pradesh",
-        "district":"Shimla",
+        "district":"Shimla"
     },
     {
         "state": "Himachal Pradesh",
-        "district":"Hamirpur",
-    },
+        "district":"Hamirpur"
+    }
   ]
 }
