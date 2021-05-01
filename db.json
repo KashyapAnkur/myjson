@@ -24,31 +24,5 @@
         "name":"Mukesh",
         "age":"30"
     }
-  ],
-  "address": [
-    {
-        "state": "Himachal Pradesh",
-        "district":"Shimla"
-    },
-    {
-        "state": "Himachal Pradesh",
-        "district":"Shimla"
-    },
-    {
-        "state": "Himachal Pradesh",
-        "district":"Solan"
-    },
-    {
-        "state": "Himachal Pradesh",
-        "district":"Shimla"
-    },
-    {
-        "state": "Himachal Pradesh",
-        "district":"Shimla"
-    },
-    {
-        "state": "Himachal Pradesh",
-        "district":"Hamirpur"
-    }
   ]
 }
