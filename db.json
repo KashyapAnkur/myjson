@@ -1,0 +1,54 @@
+{
+  "employees": [
+    {
+        "name":"Ankur",
+        "age":"31"
+    },
+    {
+        "name":"Anubhav",
+        "age":"30"
+    },
+    {
+        "name":"Ankit",
+        "age":"31"
+    },
+    {
+        "name":"Rohit",
+        "age":"30"
+    },
+    {
+        "name":"Kushal",
+        "age":"30"
+    },
+    {
+        "name":"Mukesh",
+        "age":"30"
+    },
+  ],
+  "address": [
+    {
+        "state": "Himachal Pradesh",
+        "district":"Shimla",
+    },
+    {
+        "state": "Himachal Pradesh",
+        "district":"Shimla",
+    },
+    {
+        "state": "Himachal Pradesh",
+        "district":"Solan",
+    },
+    {
+        "state": "Himachal Pradesh",
+        "district":"Shimla",
+    },
+    {
+        "state": "Himachal Pradesh",
+        "district":"Shimla",
+    },
+    {
+        "state": "Himachal Pradesh",
+        "district":"Hamirpur",
+    },
+  ]
+}
